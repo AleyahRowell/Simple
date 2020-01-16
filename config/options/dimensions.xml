@@ -1,0 +1,20 @@
+<application>
+  <component name="DimensionService">
+    <location key="WELCOME_SCREEN.0.0.1366.768" x="690" y="338" />
+    <location key="FileChooserDialogImpl.0.0.1366.768" x="471" y="79" />
+    <location key="SettingsEditor.0.0.1366.768" x="181" y="12" />
+    <location key="Github.ShareDialog.0.0.1366.768" x="476" y="262" />
+    <location key="Github.UntrackedFilesDialog.0.0.1366.768" x="297" y="71" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1366.768" x="363" y="186" />
+    <location key="#Notifications.0.0.1366.768" x="275" y="21" />
+    <location key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog.0.0.1366.768" x="71" y="121" />
+    <location key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog.0.0.1366.768" x="71" y="114" />
+    <location key="#com.intellij.refactoring.memberPullUp.PullUpDialog.0.0.1366.768" x="44" y="126" />
+    <location key="AndroidCreateXmlResourceDialog.0.0.1366.768" x="537" y="176" />
+    <location key="#com.intellij.ide.util.MemberChooser.0.0.1366.768" x="146" y="71" />
+    <size key="GridCell.Tab.0.left.0.0.1366.768" width="1288" height="158" />
+    <size key="GridCell.Tab.0.center.0.0.1366.768" width="1288" height="158" />
+    <size key="GridCell.Tab.0.right.0.0.1366.768" width="1288" height="158" />
+    <size key="GridCell.Tab.0.bottom.0.0.1366.768" width="1288" height="158" />
+  </component>
+</application>

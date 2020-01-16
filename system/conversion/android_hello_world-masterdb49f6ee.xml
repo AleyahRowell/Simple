@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="android-module-to-java-module" />
+    <converter id="android-native-run-configurations" />
+    <converter id="android-proguard-options" />
+    <converter id="android-sdk-library" />
+    <converter id="groovy-modules-to-facets" />
+    <converter id="groovy-script-run-configurations" />
+    <converter id="junit-to-android-junit-configurations" />
+    <converter id="kotlin-non-jvm-source-roots" />
+    <converter id="remove-java-aware-configurations" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\arowe\2020\AndroidStudioProjects\android_hello_world-master\.idea\codeStyles\Project.xml" timestamp="1578948748018" />
+    <file path="C:\Users\arowe\2020\AndroidStudioProjects\android_hello_world-master\.idea\gradle.xml" timestamp="1579023271929" />
+    <file path="C:\Users\arowe\2020\AndroidStudioProjects\android_hello_world-master\.idea\misc.xml" timestamp="1578950203334" />
+    <file path="C:\Users\arowe\2020\AndroidStudioProjects\android_hello_world-master\.idea\modules.xml" timestamp="1578949508897" />
+    <file path="C:\Users\arowe\2020\AndroidStudioProjects\android_hello_world-master\.idea\runConfigurations.xml" timestamp="1578948748090" />
+    <file path="C:\Users\arowe\2020\AndroidStudioProjects\android_hello_world-master\.idea\vcs.xml" timestamp="1579021529988" />
+    <file path="C:\Users\arowe\2020\AndroidStudioProjects\android_hello_world-master\.idea\workspace.xml" timestamp="1579023271869" />
+    <file path="C:\Users\arowe\2020\AndroidStudioProjects\android_hello_world-master\android_hello_world-master.iml" timestamp="1578952882841" />
+    <file path="C:\Users\arowe\2020\AndroidStudioProjects\android_hello_world-master\app\app.iml" timestamp="1579023271782" />
+  </project-files>
+</conversion>
+

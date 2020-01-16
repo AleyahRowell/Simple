@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="android-module-to-java-module" />
+    <converter id="android-native-run-configurations" />
+    <converter id="android-proguard-options" />
+    <converter id="android-sdk-library" />
+    <converter id="groovy-modules-to-facets" />
+    <converter id="groovy-script-run-configurations" />
+    <converter id="junit-to-android-junit-configurations" />
+    <converter id="kotlin-non-jvm-source-roots" />
+    <converter id="remove-java-aware-configurations" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\arowe\2020\AndroidStudioProjects\SimpleTodo1-master\.idea\codeStyles\Project.xml" timestamp="1576289161000" />
+    <file path="C:\Users\arowe\2020\AndroidStudioProjects\SimpleTodo1-master\.idea\gradle.xml" timestamp="1576289161000" />
+    <file path="C:\Users\arowe\2020\AndroidStudioProjects\SimpleTodo1-master\.idea\misc.xml" timestamp="1576289161000" />
+    <file path="C:\Users\arowe\2020\AndroidStudioProjects\SimpleTodo1-master\.idea\runConfigurations.xml" timestamp="1576289161000" />
+    <file path="C:\Users\arowe\2020\AndroidStudioProjects\SimpleTodo1-master\.idea\workspace.xml" timestamp="1579037788842" />
+  </project-files>
+</conversion>
+

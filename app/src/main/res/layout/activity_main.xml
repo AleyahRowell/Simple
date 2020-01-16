@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/etItem"
+        android:layout_width="290dp"
+        android:layout_height="36dp"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="4dp"
+        android:autoLink="phone"
+        android:hint="@string/add_item_here"
+        app:autoSizeMaxTextSize="0dp"
+        app:autoSizeMinTextSize="0dp"
+        app:autoSizePresetSizes="0dp"
+        app:autoSizeStepGranularity="0dp"
+        app:autoSizeTextType="uniform" />
+
+    <Button
+        android:id="@+id/btnAdd"
+        android:layout_width="113dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="4dp"
+        android:layout_marginLeft="4dp"
+        android:layout_marginEnd="3dp"
+        android:layout_marginRight="3dp"
+        android:layout_marginBottom="-5dp"
+        android:layout_toEndOf="@+id/etItem"
+        android:layout_toRightOf="@+id/etItem"
+        android:text="@string/button" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rvitems"
+        android:layout_width="match_parent"
+        android:layout_height="743dp"
+        android:layout_above="@+id/etItem"
+        android:layout_marginBottom="2dp" />
+</RelativeLayout>
